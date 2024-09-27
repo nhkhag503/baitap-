@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace khnag
+namespace khangbaitap2
 {
     internal class Program
     {
