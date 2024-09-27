@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace khnag
+namespace BT2
 {
-    internal class Program
+    internal class BT2
     {
         static void Main(string[] args)
         {
